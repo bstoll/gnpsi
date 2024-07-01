@@ -1,4 +1,4 @@
-module github.com/openconfig/gnpsi
+module github.com/bstoll/gnpsi
 
 go 1.22
 
